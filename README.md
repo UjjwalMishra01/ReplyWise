@@ -12,15 +12,15 @@ ReplyWise is a smart email reply generator that uses AI to analyze incoming emai
 ---
 
 ## 📁 Project Structure
-
-```
-
 ReplyWise/
 ├── frontend/             # Web UI built with Vite + React
 ├── extension/            # Chrome extension code
 ├── backend/              # SpringBoot backend + RestAPIs
 ├── README.md
 └── ...
+
+```
+
 
 ````
 
