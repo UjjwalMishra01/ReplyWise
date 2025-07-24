@@ -1,4 +1,3 @@
-Great! Here's a clean and professional `README.md` for your **ReplyWise** project:
 
 ---
 
@@ -19,7 +18,7 @@ ReplyWise is a smart email reply generator that uses AI to analyze incoming emai
 ReplyWise/
 ├── frontend/             # Web UI built with Vite + React
 ├── extension/            # Chrome extension code
-├── backend/              # Node/Express or Java backend APIs
+├── backend/              # SpringBoot backend + RestAPIs
 ├── README.md
 └── ...
 
@@ -97,16 +96,6 @@ npm start
 Want to contribute? Open an issue or a PR!
 Star ⭐ this repo if you like it!
 
----
-
-## 📄 License
-
-MIT License
-© 2025 Ujjwal Mishra
-
-````
-
----
 
 ### ✅ To Add This:
 
@@ -126,5 +115,3 @@ MIT License
    ```
 
 ---
-
-Let me know if you'd like badges (build passing, MIT license, etc.) or want to customize anything based on tech (e.g., Java backend vs Node).
