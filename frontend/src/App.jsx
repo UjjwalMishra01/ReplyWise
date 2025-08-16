@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './App.css';
+import { Analytics } from "@vercel/analytics/react"
 import axios from 'axios'; 
 import {
   Box,
@@ -13,6 +14,7 @@ import {
   Button,
   CircularProgress, 
 } from '@mui/material';
+
 
 
 function App() {
@@ -106,7 +108,9 @@ function App() {
           </Box>
         )
       }
+       <Analytics />
     </Container>
+    
   );
 }
 

@@ -1,0 +1,8 @@
+body {
+  background-image: url('assets/image03.png');
+  background-size: cover;   /* makes it fill screen */
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+}
